@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.flaxible-container{
+    display: flex;
+}
+#first-border{
+    border-left: 5px solid #FF5959;
+    line-height: 30px;
+    padding-left: 10px;
+    padding-top: 3%;
+    margin-top: 20%;
+}
+.mission-color{
+    color: #FFAD5A;
+}
+.half-width{
+    width: 50%;
+    padding-left: 8%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #FF5959;
+    color: white;
+    padding: 10px 40px;
+    font-weight: 500;
+    border-radius: 5px;
+}
+.mission-area{
+    display: flex;
+}
