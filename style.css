@@ -36,3 +36,31 @@ h1{
 .mission-area{
     display: flex;
 }
+.one-third-width img{
+    width: 50%;
+}
+.one-third-width{
+    margin-left: 100px;
+    padding: 20px;
+    background-color: lightgray;
+    border-radius: 20px;
+}
+.two-thirds-width img{
+    width: 50%;
+}
+.two-thirds-width{
+    margin-left: 80px;
+    padding: 20px;
+    background-color: lightpink;
+    border-radius: 20px;
+}
+.three-thirds-width img{
+    width: 50%;
+}
+.three-thirds-width{
+    background-color: lightsalmon;
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 80px;
+    margin-right: 100px;
+}
