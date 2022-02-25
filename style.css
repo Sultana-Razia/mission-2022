@@ -96,7 +96,7 @@ h1{
     display: flex;
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-position: bottom 7px right 7px;
+    background-position: bottom 15px right 15px;
     background-size: 15%;
     margin-top: 100px;
 }
@@ -109,6 +109,23 @@ h1{
 }
 .global-image-part{
     margin-left: 5%;
+}
+.contact-form h1{
+    text-align: center;
+    margin-top: 100px;
+}
+.container{
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    margin: 100px;
+}
+input{
+    padding: 12px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    border: 1px solid #ccc;
 }
 footer{
     text-align: center;
