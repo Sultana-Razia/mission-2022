@@ -5,6 +5,10 @@ h1{
     font-size: 60px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+h2{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .flaxible-container{
     display: flex;
 }
@@ -36,6 +40,9 @@ h1{
 .mission-area{
     display: flex;
 }
+.second-header{
+    text-align: center;
+}
 .one-third-width img{
     width: 50%;
 }
@@ -62,5 +69,25 @@ h1{
     padding: 20px;
     border-radius: 20px;
     margin-left: 80px;
+    margin-right: 100px;
+}
+.develop-area{
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+.develop-first-part{
+    width: 65%;
+    margin-left: 10%;
+}
+.develop-first-part img{
+    width: 100%;
+}
+.develop-second-part{
+    margin-left: 100px;
     margin-right: 100px;
 }
